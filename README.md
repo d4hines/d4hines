@@ -1,6 +1,7 @@
 ### Blockchain Engineer/CEO @ [SetaPay](https://setapay.io)
 
 Also:
+- I led development for a sidechain for Tezos https://github.com/marigold-dev/deku
 - I tend a NixOS garden: https://github.com/d4hines/beth
 - I have a few Nix templates: https://github.com/d4hines/nix-templates
 - I get angry at Git: https://github.com/d4hines/anger
