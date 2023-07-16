@@ -1,5 +1,10 @@
-### Hi there 👋
+### Blockchain Engineer/CEO @ [SetaPay](https://setapay.io)
 
+Also:
+- I tend a NixOS garden: https://github.com/d4hines/beth
+- I have a few Nix templates: https://github.com/d4hines/nix-templates
+- I get angry at Git: https://github.com/d4hines/anger
+- I like to visualize module dependencies: https://github.com/d4hines/ocamldepdot
 <!--
 **d4hines/d4hines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
