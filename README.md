@@ -1,4 +1,4 @@
-### Blockchain Engineer/CEO @ [SetaPay](https://setapay.io)
+### Software Engineer
 
 Also:
 - I led development for a sidechain for Tezos https://github.com/marigold-dev/deku
