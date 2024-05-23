@@ -1,10 +1,11 @@
 ### Software Engineer
+Currently writing Rust at @BrightSpec
 
 Also:
 - I led development for a sidechain for Tezos https://github.com/marigold-dev/deku
 - I tend a NixOS garden: https://github.com/d4hines/beth
 - I have a few Nix templates: https://github.com/d4hines/nix-templates
-- I get angry at Git: https://github.com/d4hines/anger
+- ~I get angry at Git: https://github.com/d4hines/anger~ Migrated to [yggit](https://github.com/Pilou97/yggit)!
 - I like to visualize module dependencies: https://github.com/d4hines/ocamldepdot
 <!--
 **d4hines/d4hines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
