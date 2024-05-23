@@ -1,5 +1,5 @@
 ### Software Engineer
-Currently writing Rust at @BrightSpec
+Currently writing Rust at [BrightSpec](https://brightspec.com/)
 
 Also:
 - I led development for a sidechain for Tezos https://github.com/marigold-dev/deku
