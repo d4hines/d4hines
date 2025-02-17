@@ -1,7 +1,8 @@
 ### Software Engineer
-Currently writing Rust at [BrightSpec](https://brightspec.com/)
+I like OCaml, Haskell, and Rust.
 
 Also:
+- I worked on the control and analytics platform for an awesome [MRR Spectrometer](https://brightspec.com)
 - I led development for a sidechain for Tezos https://github.com/marigold-dev/deku
 - I tend a NixOS garden: https://github.com/d4hines/beth
 - I have a few Nix templates: https://github.com/d4hines/nix-templates
